@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects related with android specially with jetpack compose**
 
-- 📝 I love to writes blogs on what I've learnt so far here's my hashnode's link [https://bishalonline.co/](https://bishalonline.co/)
+- 📝 I love to writes blogs on what I've learnt so far here's my hashnode's link [https://bishalonline.co/](https://blog.bishalonline.co/)
 
 - 💬 Ask me about **Android, jetpack compose**
 
@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/biplabbera20814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biplabbera20814" height="30" width="40" /></a>
 <a href="https://hashnode.com/@biplab24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@biplab24" height="30" width="40" /></a>
-<a href="/https://bishalonline.co/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://bishalonline.co/" height="30" width="40" /></a>
+<a href="/https://bishalonline.co/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.bishalonline.co/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
