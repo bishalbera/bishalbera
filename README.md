@@ -1,6 +1,11 @@
-[![MasterHead](https://www.sysbunny.com/blog/wp-content/uploads/2018/02/hire-android-developer.png)]
+<div align="center" >
+ 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=3000&color=FFFFFF&center=true&width=500&lines=Meri+Duniya+Mein+Apka+Swagat+Hai🖤)
+<hr />
+</div>
+
 <h1 align="center">Hi 👋, I'm Biplab Bera</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalbera&label=Profile%20views&color=0e75b6&style=flat" alt="bishalbera" /> </p>
