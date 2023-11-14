@@ -37,5 +37,6 @@
 <a href="https://github.com/bishalbera">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bishalbera&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bishalbera&layout=compact&langs_count=8&theme=merko"/>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bishalbera&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
 </a>
 </p>
