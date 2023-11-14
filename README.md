@@ -32,6 +32,9 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Data Insights with Airbyte, BigQuery, Dbt, and Dagster: A Comprehensive Guide](https://blog.bishalonline.co/unlocking-data-insights-with-airbyte-bigquery-dbt-and-dagster-a-comprehensive-guide)
+- [Unlock Your Learning Potential with Skillify: A Journey through the Ultimate Upskilling Platform](https://blog.bishalonline.co/unlock-your-learning-potential-with-skillify-a-journey-through-the-ultimate-upskilling-platform)
+- [Making Connections:  My First  Tech Meet-Up Experience](https://blog.bishalonline.co/making-connections-my-first-tech-meet-up-experience)
 <!-- BLOG-POST-LIST:END -->
 
 
