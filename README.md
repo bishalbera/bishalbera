@@ -16,7 +16,7 @@
 
 - 📝 I love to writes blogs on what I've learnt so far here's my hashnode's link [https://blog.bishalonline.co/](https://blog.bishalonline.co/)
 
-- 💬 Ask me about **Android, Flutter, and Opeen Source**
+- 💬 Ask me about **Android, Flutter, and Open Source**
 
 - 📫 How to reach me **bishalbera2@gmail.com**
 
