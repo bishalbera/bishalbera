@@ -32,9 +32,9 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to The Linux Kernel](https://blog.bishalonline.co/introduction-to-the-linux-kernel)
 - [Revolutionizing Loan Approval: AI-Powered FastAPI and MindsDB Solution for Instant Decisions](https://blog.bishalonline.co/revolutionizing-loan-approval-ai-powered-fastapi-and-mindsdb-solution-for-instant-decisions)
 - [Decoding Software Architecture: Monolith vs. Microservices – A Comprehensive Guide](https://blog.bishalonline.co/decoding-software-architecture-monolith-vs-microservices-a-comprehensive-guide)
-- [Unlocking Data Insights with Airbyte, BigQuery, Dbt, and Dagster: A Comprehensive Guide](https://blog.bishalonline.co/unlocking-data-insights-with-airbyte-bigquery-dbt-and-dagster-a-comprehensive-guide)
 <!-- BLOG-POST-LIST:END -->
 
 
