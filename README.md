@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalbera&label=Profile%20views&color=0e75b6&style=flat" alt="bishalbera" /> </p>
 
-- 🌱 I’m currently exploring **Python**
+- 🌱 I’m currently exploring **DevOps**
 
 - 👯 I’m looking to collaborate on **open source projects related with flutter**
 
