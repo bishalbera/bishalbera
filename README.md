@@ -32,9 +32,9 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Modular File Structure in Go: Writing Your First Go Program](https://blog.bishalonline.co/modular-file-structure-in-go-writing-your-first-go-program)
 - [The Genesis of Go: Unveiling the Rationale and Unique Features of Golang](https://blog.bishalonline.co/the-genesis-of-go-unveiling-the-rationale-and-unique-features-of-golang)
 - [Introduction to The Linux Kernel](https://blog.bishalonline.co/introduction-to-the-linux-kernel)
-- [Revolutionizing Loan Approval: AI-Powered FastAPI and MindsDB Solution for Instant Decisions](https://blog.bishalonline.co/revolutionizing-loan-approval-ai-powered-fastapi-and-mindsdb-solution-for-instant-decisions)
 <!-- BLOG-POST-LIST:END -->
 
 
