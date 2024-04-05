@@ -32,9 +32,9 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Simple E-Commerce Website on AKS](https://blog.bishalonline.co/deploying-a-simple-e-commerce-website-on-aks)
-- [Mastering Go Programming: Variables, Constants, and More Explained](https://blog.bishalonline.co/mastering-go-programming-variables-constants-and-more-explained)
-- [Modular File Structure in Go: Writing Your First Go Program](https://blog.bishalonline.co/modular-file-structure-in-go-writing-your-first-go-program)
+- [Deploying a Simple E-Commerce Website on AKS](https://biplab24.hashnode.dev/deploying-a-simple-e-commerce-website-on-aks)
+- [Mastering Go Programming: Variables, Constants, and More Explained](https://biplab24.hashnode.dev/mastering-go-programming-variables-constants-and-more-explained)
+- [Modular File Structure in Go: Writing Your First Go Program](https://biplab24.hashnode.dev/modular-file-structure-in-go-writing-your-first-go-program)
 <!-- BLOG-POST-LIST:END -->
 
 
