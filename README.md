@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/intent/follow?screen_name=BiplabBera20814"><img src="https://img.shields.io/badge/Twitter-2962FF?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://blog.bishalonline.co"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+<a href="https://biplab24.hashnode.dev/"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 </p>
 
 ### :writing_hand: Blog Posts :
