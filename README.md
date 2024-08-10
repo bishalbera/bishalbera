@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects related with flutter**
 
-- 📝 I love to writes blogs on what I've learnt so far here's my hashnode's link [https://blog.bishalonline.co/](https://biplab24.hashnode.dev/)
+- 📝 I love to writes blogs on what I've learnt so far. Here's my hashnode's [blog](https://biplab24.hashnode.dev/)
 
 - 📫 How to reach me **bishalbera2@gmail.com**
 
